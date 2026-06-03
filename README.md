@@ -8,8 +8,10 @@ A frontend Notes application built with React and Vite that allows users to crea
 
 ## ⚡ Quick Start
 
+```
 npm install
 npm run dev
+```
 
 
 Then open:
