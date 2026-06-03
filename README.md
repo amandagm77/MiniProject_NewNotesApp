@@ -28,18 +28,6 @@ http://localhost:5173
 - Persistent storage using localStorage
 - Responsive card-based UI layout
 
----
-
-## 📸 Screenshots
-
-### Main View
-![App Screenshot](assets/screenshot-main.png)
-
-### Editing a Note
-![App Screenshot](assets/screenshot-edit.png)
-
----
-
 ## ✅ Status
 
 ✔ React UI fully functional  
@@ -122,6 +110,7 @@ http://localhost:5173
 
 ## 📂 Project Structure
 
+```
 src/
 │── components/
 │ ├── NoteForm.jsx
@@ -131,7 +120,7 @@ src/
 │── App.jsx
 │── App.css
 │── main.jsx
-
+```
 
 ---
 
